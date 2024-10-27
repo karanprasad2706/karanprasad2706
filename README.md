@@ -24,7 +24,7 @@
 
 ### 🚀 Featured Projects
 - [**FnF Grocery Shopping**](https://github.com/karanprasad2706/FnF-Grocery-Shopping) &nbsp; ![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![SQLite](https://img.shields.io/badge/SQLite-3.0-lightgrey)
-- [**IFixHome Android Application**](https://github.com/karanprasad2706/anotherproject) &nbsp; ![Java](https://img.shields.io/badge/Java-8-green) ![SQLite](https://img.shields.io/badge/SQLite-3.0-lightgrey)
+- [**IFixHome Android Application**](https://github.com/karanprasad2706/IFixHome) &nbsp; ![Java](https://img.shields.io/badge/Java-8-green) ![SQLite](https://img.shields.io/badge/SQLite-3.0-lightgrey)
 
 
 ### 🤝 Connect with me:
