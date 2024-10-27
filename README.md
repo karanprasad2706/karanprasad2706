@@ -37,8 +37,8 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanprasad2706&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most used languages" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanprasad2706&show_icons=true&locale=en&theme=radical" alt="GitHub stats" /><br>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanprasad2706&theme=radical" alt="GitHub streak stats" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanprasad2706&show_icons=true&locale=en&layout=compact&theme=radical" alt="karanprasad2706" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanprasad2706&show_icons=true&locale=en&theme=radical" alt="karanprasad2706" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanprasad2706&theme=radical" alt="karanprasad2706" /></p>
