@@ -24,11 +24,6 @@
 - [**IFixHome Android Application**](https://github.com/karanprasad2706/anotherproject) &nbsp; ![Java](https://img.shields.io/badge/Java-8-green) ![SQLite](https://img.shields.io/badge/SQLite-3.0-lightgrey)
 
 
-### 🏆 GitHub Trophies
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=karanprasad2706&theme=radical&column=4"/>
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
