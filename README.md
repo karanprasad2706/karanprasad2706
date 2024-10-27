@@ -20,8 +20,8 @@
 </p>
 
 ### 🚀 Featured Projects
-- [**Project Name**](https://github.com/karanprasad2706/project) &nbsp; ![React](https://img.shields.io/badge/React-16.8-blue) ![Firebase](https://img.shields.io/badge/Firebase-9.0-yellow)
-- [**Another Project**](https://github.com/karanprasad2706/anotherproject) &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-14-green) ![Express](https://img.shields.io/badge/Express-4.0-lightgrey)
+- [**FnF Grocery Shopping**](https://github.com/karanprasad2706/FnF-Grocery-Shopping) &nbsp; ![PHP](https://img.shields.io/badge/React-16.8-blue) ![SQLserver](https://img.shields.io/badge/Firebase-9.0-yellow)
+- [**IFixHome Android Application**](https://github.com/karanprasad2706/anotherproject) &nbsp; ![Java](https://img.shields.io/badge/Node.js-14-green) ![SqlLite](https://img.shields.io/badge/Express-4.0-lightgrey)
 
 
 
