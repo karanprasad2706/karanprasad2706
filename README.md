@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Karan Prasad</h1>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
+<div align="center"> <img src="[https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png](https://github.com/karanprasad2706/karanprasad2706/blob/main/Banner.png)"> </div>
 <h3 align="center">A passionate Full Stack and Android Developer from Mumbai. I work in the tech sector, creating exceptional web experiences, and in my free time, I bring ideas to life through interactive designs.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
