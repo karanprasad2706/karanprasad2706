@@ -11,6 +11,13 @@
 <h3 align="center">A passionate Full Stack and Android Developer from Mumbai.</h3>
 <p align="center">I work in the tech sector, creating exceptional web experiences. In my free time, I bring ideas to life through interactive designs.</p>
 
+### About Me
+- 💼 I’m currently working as a **Full Stack Developer**
+- 🖥️ My main interests lie in **Web Development** and **Android Development**
+- 🎨 In my free time, I love designing interactive UI components
+- 🌱 I’m currently learning **Cloud Computing** and **Advanced Backend Development**
+
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
