@@ -26,7 +26,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=karanprasad2706&theme=radical&column=7"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=karanprasad2706&theme=radical&column=4"/>
 </p>
 
 
