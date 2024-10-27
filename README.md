@@ -1,17 +1,40 @@
 <h1 align="center">Hey Everyone 👋, I'm Karan Prasad</h1>
-<div align="center"> <img src="https://github.com/karanprasad2706/karanprasad2706/blob/main/Banner.png"> </div>
+
+<div align="center"> 
+   <img src="https://github.com/karanprasad2706/karanprasad2706/blob/main/Banner.png">
+</div>
+
+> "Striving to create impactful web experiences, one line of code at a time." 🌟
+
 <h3 align="center">A passionate Full Stack and Android Developer from Mumbai. I work in the tech sector, creating exceptional web experiences, and in my free time, I bring ideas to life through interactive designs.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanprasad2706&label=Profile%20views&color=0e75b6&style=flat" alt="karanprasad2706" /> </p>
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=karanprasad2706&label=Profile%20views&color=0e75b6&style=flat" alt="karanprasad2706" /> 
+</p>
 
-- 👨‍💻 All of my projects are available at [https://karanprasad.vercel.app/](https://karanprasad.vercel.app/)
+### 🛠️ Tech Stack
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=android,angular,aws,bootstrap,css,django,figma,firebase,git,html,java,js,kotlin,mongodb,mysql,nodejs,php,postgres,react,sass,spring,sqlite,tailwind,unity&perline=7" />
+</p>
 
-- 💬 Ask me about **FullStack Development**
+### 🚀 Featured Projects
+- [**Project Name**](https://github.com/karanprasad2706/project) &nbsp; ![React](https://img.shields.io/badge/React-16.8-blue) ![Firebase](https://img.shields.io/badge/Firebase-9.0-yellow)
+- [**Another Project**](https://github.com/karanprasad2706/anotherproject) &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-14-green) ![Express](https://img.shields.io/badge/Express-4.0-lightgrey)
 
-- 📫 How to reach me **karanprasad721@gmail.com**
+### 📊 GitHub Stats
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanprasad2706&show_icons=true&locale=en&layout=compact&theme=radical" alt="karanprasad2706" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanprasad2706&show_icons=true&locale=en&theme=radical" alt="karanprasad2706" />
+</p>
 
-- 📄 Know about my experiences [https://github.com/karanprasad2706/img/blob/main/KARAN-PRASAD-IT-VEDANTT.pdf](https://github.com/karanprasad2706/img/blob/main/KARAN-PRASAD-IT-VEDANTT.pdf)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanprasad2706&theme=radical" alt="karanprasad2706" /></p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=karanprasad2706&theme=radical&column=7"/>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
